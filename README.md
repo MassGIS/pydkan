@@ -6,9 +6,9 @@ This is a python client to interface with the [dkan_dataset_rest_api](https://gi
 
 ```bash
 # To install the latest of the latest
-$ pip install git+git://github.com/NuCivic/pydkan.git@master#egg=pydkan
+$ pip install git+git://github.com/slarrain/pydkan.git@master#egg=pydkan
 # To install a release
-$ pip install git+git://github.com/NuCivic/pydkan.git@0.3#egg=pydkan
+$ pip install git+git://github.com/slarrain/pydkan.git@0.3#egg=pydkan
 ```
 
 ## Usage
